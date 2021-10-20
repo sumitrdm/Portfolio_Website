@@ -41,7 +41,7 @@ const Home = () => {
             <Link to = '/about' className="btn btn-white">
                 <p  style={{...line}} className="btn-text">About me</p>
             </Link>
-            <a target="_blank" className="btn btn-transparent" style={{...line}} href="https://drive.google.com/file/d/1z6RTYrlzQfPvcXH5R9r5GBQMxOVqpunq/view" >
+            <a target="_blank" className="btn btn-transparent" style={{...line}} href="https://drive.google.com/file/d/1Ze7DI_ltPoTgZqPUjtmQoWWjyVo1wUuh/view?usp=sharing" >
              
                 <p className="btn-text">Resume!</p>
             
@@ -49,7 +49,7 @@ const Home = () => {
         </div>
         <div className="splash-image">
             <img src={homeAnime} alt="animation" className="home-anime"></img>
-        </div>
+        </div>x
     
     </div>
     )}
