@@ -11,16 +11,19 @@ export const projectsData = [
         githubLink : 'https://github.com/sumitrdm/IPL_Ticket_Prediction'
 
     },
-    {
-        projectName: 'Calculate me!',
-        projectDescription:
-            'This is a simple calculator made from React.js and a calculator that can do all computations easily and the way of representing the numbers is also good.',
-        imageUrl: 'images/calci.jpg',
-        videoUrl: 'https://naughty-bhabha-c11f00.netlify.app/',
-        projectUrl: 'https://naughty-bhabha-c11f00.netlify.app/',
-        githubLink : 'https://github.com/sumitrdm/React_Calculator_App'
 
+    {
+        projectName: 'TBI Website',
+        projectDescription:
+        "TBI Startup Launchpad Website that tell you all about that what is incubation is and how to apply and many more realted thing and it is a website that have all the related stuff for how to start an startup with TBI. It is made by HTML5,CSS3,Bootstrap,Javascript and jquery",
+        imageUrl: 'images/tbi.jpg',
+        videoUrl: 'https://sumitrdm.github.io/TBI_Website/',
+        projectUrl: 'https://sumitrdm.github.io/TBI_Website/',
+        githubLink : 'https://github.com/sumitrdm/TBI_Website'
+
+        
     },
+
     {
         projectName: 'New-Technos',
         projectDescription:
@@ -31,7 +34,6 @@ export const projectsData = [
         githubLink : 'https://github.com/sumitrdm/Project_NewTechnos_'
 
     },
-
     {
         projectName: 'TODO-List',
         projectDescription:
@@ -41,6 +43,19 @@ export const projectsData = [
         projectUrl: 'https://frozen-spire-45010.herokuapp.com/',
         githubLink : 'https://github.com/sumitrdm/TodoList'
     },
+    {
+        projectName: 'Calculate me!',
+        projectDescription:
+            'This is a simple calculator made from React.js and a calculator that can do all computations easily and the way of representing the numbers is also good.',
+        imageUrl: 'images/calci.jpg',
+        videoUrl: 'https://naughty-bhabha-c11f00.netlify.app/',
+        projectUrl: 'https://naughty-bhabha-c11f00.netlify.app/',
+        githubLink : 'https://github.com/sumitrdm/React_Calculator_App'
+
+    },
+    
+
+    
 
     {
         projectName: 'Your blog!',
@@ -64,17 +79,7 @@ export const projectsData = [
 
     },
   
-    {
-        projectName: 'TBI Website',
-        projectDescription:
-        "TBI Startup Launchpad Website that tell you all about that what is incubation is and how to apply and many more realted thing and it is a website that have all the related stuff for how to start an startup with TBI. It is made by HTML5,CSS3,Bootstrap,Javascript and jquery",
-        imageUrl: 'images/tbi.jpg',
-        videoUrl: 'https://sumitrdm.github.io/TBI_Website/',
-        projectUrl: 'https://sumitrdm.github.io/TBI_Website/',
-        githubLink : 'https://github.com/sumitrdm/TBI_Website'
-
-        
-    },
+    
     
     {
         projectName: 'Fabroom Website',
