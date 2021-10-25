@@ -41,7 +41,7 @@ const Home = () => {
             <Link to = '/about' className="btn btn-white">
                 <p  style={{...line}} className="btn-text">About me</p>
             </Link>
-            <a target="_blank" className="btn btn-transparent" style={{...line}} href="https://drive.google.com/file/d/1Ze7DI_ltPoTgZqPUjtmQoWWjyVo1wUuh/view?usp=sharing" >
+            <a target="_blank" className="btn btn-transparent" style={{...line}} href="https://drive.google.com/file/d/1K8jiJjXkaCsGI7r4qZIrTv3za4l9T5r6/view?usp=sharing" >
              
                 <p className="btn-text">Resume!</p>
             

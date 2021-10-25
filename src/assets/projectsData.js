@@ -1,14 +1,6 @@
 export const projectsData = [
   
-    {
-        projectName: 'TODO-List',
-        projectDescription:
-        'This is a TODO-List in which you can keep track of your daily records that you have to do in this you can delete the items also It is made from HTML,CSS,Express.js,Node.js,EJS and MongoDB.',
-        imageUrl: 'images/todo.jpg',
-        videoUrl:'https://frozen-spire-45010.herokuapp.com/',
-        projectUrl: 'https://frozen-spire-45010.herokuapp.com/',
-        githubLink : 'https://github.com/sumitrdm/TodoList'
-    },
+   
     {
         projectName: 'Ticket Prediction website',
         projectDescription:
@@ -29,6 +21,26 @@ export const projectsData = [
         githubLink : 'https://github.com/sumitrdm/React_Calculator_App'
 
     },
+    {
+        projectName: 'New-Technos',
+        projectDescription:
+        'New Technos is a free coupon and free courses providing website by React.js. It provides Free courses, roadmaps, free workshops and event details.',
+        imageUrl: 'images/new.jpg',
+        videoUrl:'https://kind-perlman-8c1dd4.netlify.app/',
+        projectUrl: 'https://kind-perlman-8c1dd4.netlify.app/',
+        githubLink : 'https://github.com/sumitrdm/Project_NewTechnos_'
+
+    },
+
+    {
+        projectName: 'TODO-List',
+        projectDescription:
+        'This is a TODO-List in which you can keep track of your daily records that you have to do in this you can delete the items also It is made from HTML,CSS,Express.js,Node.js,EJS and MongoDB.',
+        imageUrl: 'images/todo.jpg',
+        videoUrl:'https://frozen-spire-45010.herokuapp.com/',
+        projectUrl: 'https://frozen-spire-45010.herokuapp.com/',
+        githubLink : 'https://github.com/sumitrdm/TodoList'
+    },
 
     {
         projectName: 'Your blog!',
@@ -46,8 +58,8 @@ export const projectsData = [
         projectDescription:
         "Fabroom is a flutter application which tells you the nearby PG's,Flats and hostel for GLA UNIVERSITY Students so that it is easy for them to find out there living location easily It is made by flutter framework and dart language.",
         imageUrl: 'images/flutter.jpg',
-        videoUrl: '',
-        projectUrl: '',
+        videoUrl: 'https://github.com/FabRooms/fabroom',
+        projectUrl: 'https://github.com/FabRooms/fabroom',
         githubLink : 'https://github.com/FabRooms/fabroom'
 
     },
