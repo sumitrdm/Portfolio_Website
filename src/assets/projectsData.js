@@ -98,8 +98,8 @@ export const projectsData = [
         projectDescription: "This is my portfolio website that tells everything about me that who am i and what are my skills and this website is made with by React.js",
         imageUrl: 'images/port.jpg',
         videoUrl: '',
-        projectUrl: '',
-        githubLink : ''
+        projectUrl: 'https://knowsumit.netlify.app/#/',
+        githubLink : 'https://github.com/sumitrdm/Portfolio_Website'
 
         
     },
